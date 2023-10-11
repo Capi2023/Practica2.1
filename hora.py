@@ -1,3 +1,12 @@
+## Depto de Sistemas y Computación
+## Ing. En Sistemas Computacionales
+## SISTEMAS PROGRAMABLES 23a
+## Autor (es): Emiliano García Cordero
+## Repositorio: https://github.com/Capi2023/Practica2.1
+## Fecha de revisión:   11/10/2023
+## Objetivo: 2.1.2  Desplegar la hora de Internet en la Pico usando su Wifi integrada para que interrogue un servidor NTP Time Server, en el OLED DIsplay
+##   
+
 from machine import Pin, I2C
 from ssd1306 import SSD1306_I2C
 import utime
